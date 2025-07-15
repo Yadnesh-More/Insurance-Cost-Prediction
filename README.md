@@ -2,6 +2,7 @@
 Using regression models to predict the medical charges using various factors
 
 In this project we used 2 models:
+
 1.)Linear Regression
 
 2.)RandomForestRegressor
