@@ -17,4 +17,6 @@ In conclusion Random Forest outperformed Linear Regression using complex interac
 
 This project demonstrates how simple regression models can effectively predict insurance charges using only a few key features.  
 The smoker status proved to be the most impactful factor on medical cost predictions.
-[![open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Yadnesh-More/Insurance-Cost-Prediction/blob/main/major1_addedmarkdowns.ipynb
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yadnesh-More/Insurance-Cost-Prediction/blob/main/major1_addedmarkdowns.ipynb)
