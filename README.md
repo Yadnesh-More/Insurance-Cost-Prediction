@@ -18,6 +18,7 @@ We compare the performance of both models using evaluation methods metrics like 
 In conclusion Random Forest outperformed Linear Regression using complex interactions.
 
 This project demonstrates how simple regression models can effectively predict insurance charges using only a few key features.  
+
 The smoker status proved to be the most impactful factor on medical cost predictions.
 
 
