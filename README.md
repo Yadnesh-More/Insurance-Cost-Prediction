@@ -22,5 +22,5 @@ This project demonstrates how simple regression models can effectively predict i
 The smoker status proved to be the most impactful factor on medical cost predictions.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yadnesh-More/Insurance-Cost-Prediction/blob/main/major01_with_markdown.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yadnesh-More/Insurance-Cost-Prediction/blob/main/major1_with_markdown.ipynb)
 
